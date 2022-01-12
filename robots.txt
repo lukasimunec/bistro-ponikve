@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /assets*
+Sitemap: https://bistro-ponikve.methit.com/sitemap.xml
