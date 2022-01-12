@@ -886,6 +886,10 @@ section.menu {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.menu-content {
+    color: #000000;
+}
+
 .menu .menu-content a {
     padding-right: 10px;
     background: #fff;
