@@ -19,7 +19,6 @@ body {
 }
 
 body {
-    font-family: "Orelega", sans-serif;
     color: #603e11;
 }
 
@@ -37,9 +36,7 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-    font-family: "Orelega", sans-serif;
-}
+h6 {}
 
 
 /*--------------------------------------------------------------
@@ -112,15 +109,13 @@ h6 {
 
 #header.header-scrolled {
     top: 0;
-    background: rgba(26, 24, 22, 1);
+    background: rgba(26, 24, 22, 0.9);
 }
 
 #header .logo h1 {
     font-size: 28px;
     margin: 0;
     line-height: 1;
-    font-weight: 400;
-    letter-spacing: 3px;
 }
 
 #header .logo h1 a,
@@ -171,7 +166,6 @@ h6 {
     transition: 0.3s;
     font-size: 15px;
     font-weight: 500;
-    font-family: "Orelega", sans-serif;
 }
 
 .nav-menu a:hover,
@@ -898,7 +892,7 @@ section.menu {
     position: relative;
     z-index: 3;
     font-weight: 700;
-    color: #ff9b08;
+    color: #000000;
 }
 
 .menu .menu-content span {
@@ -912,7 +906,6 @@ section.menu {
 .menu .menu-ingredients {
     font-style: italic;
     font-size: 14px;
-    font-family: "Orelega", sans-serif;
     color: #948c81;
 }
 
@@ -1032,7 +1025,6 @@ section.menu {
 
 .events .event-item .price {
     font-size: 26px;
-    font-family: "Orelega", sans-serif;
     font-weight: 700;
     margin-bottom: 15px;
 }
@@ -1256,7 +1248,6 @@ section.menu {
     color: #6c665c;
     position: relative;
     padding-bottom: 10px;
-    font-family: "Orelega", sans-serif;
 }
 
 .chefs .member h4::after {
@@ -1350,14 +1341,12 @@ section.menu {
     font-weight: bold;
     margin: 10px 0 5px 0;
     color: #fff;
-    font-family: "Orelega", sans-serif;
 }
 
 .testimonials .testimonial-item h4 {
     font-size: 14px;
     color: #ddd;
     margin: 0 0 15px 0;
-    font-family: "Orelega", sans-serif;
 }
 
 .testimonials .testimonial-item .stars {
@@ -1455,7 +1444,6 @@ section.menu {
     font-weight: 600;
     margin-bottom: 5px;
     color: #433f39;
-    font-family: "Orelega", sans-serif;
 }
 
 .contact .info p {
