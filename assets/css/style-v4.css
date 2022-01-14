@@ -1,3 +1,11 @@
+#eapps-google-reviews-9ffc5ddb-3a39-4f7b-971a-77c82d678385 a:nth-child(4) {
+    display: none !important;
+}
+
+#eapps-google-reviews-9ffc5ddb-3a39-4f7b-971a-77c82d678385 a:nth-child(3) {
+    display: none !important;
+}
+
 body,
 html {
     width: 100% !important;
